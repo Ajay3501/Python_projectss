@@ -27,7 +27,7 @@ Each folder in this repository represents a separate mini project:
 │   ├── README.md
 │   └── resources/
 ├── project_2_name/
-│   ├── app.py
+│   ├── number_guesser.py
 │   ├── data.csv
 │   └── README.md
 └── ...
