@@ -24,13 +24,15 @@ Each folder in this repository represents a separate mini project:
 📁 python-mini-projects/
 ├── project_1_name/
 │   ├── python_prj_1_quiz.py
-│   ├── README.md
+│   ├── python file
 │   └── resources/
 ├── project_2_name/
 │   ├── number_guesser.py
-│   ├── data.csv
+│   ├── python file
 │   └── README.md
-└── ...
+└── project_3_name/
+|   |-- rock-ppr_prj_3.py
+|   |-- python file
 </pre>
 
 Each project folder includes:
