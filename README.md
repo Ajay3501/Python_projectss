@@ -33,6 +33,10 @@ Each folder in this repository represents a separate mini project:
 └── project_3_name/
 |   |-- rock-ppr_prj_3.py
 |   |-- python file
+|___ project_4_name/
+|   |-- choose_your_own_adventure.py
+|   |-- python file
+  
 </pre>
 
 Each project folder includes:
