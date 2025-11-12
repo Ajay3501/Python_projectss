@@ -36,7 +36,9 @@ Each folder in this repository represents a separate mini project:
 |___ project_4_name/
 |   |-- choose_your_own_adventure.py
 |   |-- python file
-  
+|___ project_6_name/
+|   |-- pig_roll_dice.py
+|   |-- python file
 </pre>
 
 Each project folder includes:
